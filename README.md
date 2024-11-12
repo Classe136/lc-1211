@@ -1,1 +1,1 @@
-# lc-1211
+# lc-1211 - Javascript Object Literals
